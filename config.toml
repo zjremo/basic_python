@@ -1,0 +1,23 @@
+name='zjr'
+age=20
+height=170
+
+[account]
+bilibili.username = 'zjremo'
+bilibili.password = '123456'
+youtube='zjrctv'
+
+[[profiles]]
+name='Alice'
+age=20
+height=170.2
+
+[[profiles]]
+name='Alice2'
+age=21
+height=171
+
+[[profiles]]
+name='Alice3'
+age=22
+height=172
