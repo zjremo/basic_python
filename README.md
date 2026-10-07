@@ -6,4 +6,5 @@
 Ref:
 1. Hucci写代码 <<pythonic练习生>>系列视频: https://space.bilibili.com/1318868/lists/2943140?type=season
 2. Hucci写代码 Blog文章: https://huccihuang.github.io/
+3. Numpy Tutorial: https://www.w3schools.com/python/numpy/default.asp
 ```
