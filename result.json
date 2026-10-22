@@ -1,0 +1,448 @@
+{
+  "meta": {
+    "title": "Repository search results"
+  },
+  "payload": {
+    "blackbirdSearchRoute": {
+      "header_redesign_enabled": true,
+      "results": [
+        {
+          "id": "11205780",
+          "archived": false,
+          "color": "#f1e05a",
+          "followers": 20549,
+          "has_funding_file": true,
+          "hl_name": "motdotla/<em>dotenv</em>",
+          "hl_trunc_description": "Loads environment variables from .env for nodejs projects.",
+          "language": "JavaScript",
+          "mirror": false,
+          "owned_by_organization": false,
+          "public": true,
+          "repo": {
+            "repository": {
+              "id": 11205780,
+              "name": "dotenv",
+              "owner_id": 3848,
+              "owner_login": "motdotla",
+              "updated_at": "2026-10-16T20:59:35.251Z",
+              "has_issues": true
+            }
+          },
+          "sponsorable": true,
+          "topics": [
+            "nodejs",
+            "javascript",
+            "dotenv",
+            "node",
+            "secret-management",
+            "secrets",
+            "environment-variables",
+            "env",
+            "configuration-file",
+            "security-tools",
+            "secret-manager"
+          ],
+          "type": "Public",
+          "help_wanted_issues_count": 1,
+          "good_first_issue_issues_count": 0,
+          "starred_by_current_user": false
+        },
+        {
+          "id": "5160706",
+          "archived": false,
+          "color": "#701516",
+          "followers": 6767,
+          "has_funding_file": true,
+          "hl_name": "bkeepers/<em>dotenv</em>",
+          "hl_trunc_description": "A Ruby gem to load environment variables from `.env`. ",
+          "language": "Ruby",
+          "mirror": false,
+          "owned_by_organization": false,
+          "public": true,
+          "repo": {
+            "repository": {
+              "id": 5160706,
+              "name": "dotenv",
+              "owner_id": 173,
+              "owner_login": "bkeepers",
+              "updated_at": "2026-06-22T16:42:21.662Z",
+              "has_issues": true
+            }
+          },
+          "sponsorable": true,
+          "topics": [
+            "ruby",
+            "dotenv"
+          ],
+          "type": "Public",
+          "help_wanted_issues_count": 0,
+          "good_first_issue_issues_count": 0,
+          "starred_by_current_user": false
+        },
+        {
+          "id": "23727790",
+          "archived": false,
+          "color": "#3572A5",
+          "followers": 8898,
+          "has_funding_file": false,
+          "hl_name": "theskumar/python-<em>dotenv</em>",
+          "hl_trunc_description": "Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-fa…",
+          "language": "Python",
+          "mirror": false,
+          "owned_by_organization": false,
+          "public": true,
+          "repo": {
+            "repository": {
+              "id": 23727790,
+              "name": "python-dotenv",
+              "owner_id": 236356,
+              "owner_login": "theskumar",
+              "updated_at": "2026-10-01T07:34:37.358Z",
+              "has_issues": true
+            }
+          },
+          "sponsorable": false,
+          "topics": [
+            "python",
+            "dotenv",
+            "configuration",
+            "environment-variables",
+            "env",
+            "devops-tools",
+            "12-factor-app"
+          ],
+          "type": "Public",
+          "help_wanted_issues_count": 0,
+          "good_first_issue_issues_count": 0,
+          "starred_by_current_user": false
+        },
+        {
+          "id": "720267554",
+          "archived": false,
+          "color": "#f1e05a",
+          "followers": 5845,
+          "has_funding_file": false,
+          "hl_name": "dotenvx/<em>dotenvx</em>",
+          "hl_trunc_description": "a secure <em>dotenv</em>—from the creator of `<em>dotenv</em>`",
+          "language": "JavaScript",
+          "mirror": false,
+          "owned_by_organization": true,
+          "public": true,
+          "repo": {
+            "repository": {
+              "id": 720267554,
+              "name": "dotenvx",
+              "owner_id": 151580037,
+              "owner_login": "dotenvx",
+              "updated_at": "2026-10-20T23:03:14.598Z",
+              "has_issues": true
+            }
+          },
+          "sponsorable": false,
+          "topics": [
+            "cli",
+            "homebrew",
+            "dotenv",
+            "curl",
+            "secret-management",
+            "secrets",
+            "environment-variables",
+            "env",
+            "configuration-file",
+            "security-tools",
+            "end-to-end-encryption",
+            "winget",
+            "secrets-management",
+            "secret-manager",
+            "dotenvx"
+          ],
+          "type": "Public",
+          "help_wanted_issues_count": 0,
+          "good_first_issue_issues_count": 0,
+          "starred_by_current_user": false
+        },
+        {
+          "id": "225030271",
+          "archived": false,
+          "color": "#dea584",
+          "followers": 2113,
+          "has_funding_file": true,
+          "hl_name": "dotenv-linter/<em>dotenv</em>-linter",
+          "hl_trunc_description": "⚡️Lightning-fast linter for .env files. Written in Rust 🦀",
+          "language": "Rust",
+          "mirror": false,
+          "owned_by_organization": true,
+          "public": true,
+          "repo": {
+            "repository": {
+              "id": 225030271,
+              "name": "dotenv-linter",
+              "owner_id": 63101922,
+              "owner_login": "dotenv-linter",
+              "updated_at": "2026-02-05T18:55:33.788Z",
+              "has_issues": true
+            }
+          },
+          "sponsorable": true,
+          "topics": [
+            "rust",
+            "dotenv",
+            "linter",
+            "rust-lang",
+            "check",
+            "env",
+            "compare",
+            "fix",
+            "hacktoberfest",
+            "contributor-friendly",
+            "contributors-welcome",
+            "dotenv-linter"
+          ],
+          "type": "Public",
+          "help_wanted_issues_count": 4,
+          "good_first_issue_issues_count": 3,
+          "starred_by_current_user": false
+        },
+        {
+          "id": "464482174",
+          "archived": false,
+          "color": "#dea584",
+          "followers": 1259,
+          "has_funding_file": false,
+          "hl_name": "allan2/<em>dotenvy</em>",
+          "hl_trunc_description": "A well-maintained fork of the <em>dotenv</em> crate",
+          "language": "Rust",
+          "mirror": false,
+          "owned_by_organization": false,
+          "public": true,
+          "repo": {
+            "repository": {
+              "id": 464482174,
+              "name": "dotenvy",
+              "owner_id": 6740989,
+              "owner_login": "allan2",
+              "updated_at": "2026-08-18T01:50:26.122Z",
+              "has_issues": true
+            }
+          },
+          "sponsorable": false,
+          "topics": [],
+          "type": "Public",
+          "help_wanted_issues_count": 1,
+          "good_first_issue_issues_count": 4,
+          "starred_by_current_user": false
+        },
+        {
+          "id": "78772595",
+          "archived": false,
+          "color": "#4F5D95",
+          "followers": 3790,
+          "has_funding_file": true,
+          "hl_name": "symfony/<em>dotenv</em>",
+          "hl_trunc_description": "Registers environment variables from a .env file",
+          "language": "PHP",
+          "mirror": false,
+          "owned_by_organization": true,
+          "public": true,
+          "repo": {
+            "repository": {
+              "id": 78772595,
+              "name": "dotenv",
+              "owner_id": 143937,
+              "owner_login": "symfony",
+              "updated_at": "2026-10-15T06:52:08.522Z",
+              "has_issues": false
+            }
+          },
+          "sponsorable": false,
+          "topics": [
+            "php",
+            "dotenv",
+            "environment",
+            "symfony",
+            "component",
+            "env",
+            "symfony-component"
+          ],
+          "type": "Public",
+          "help_wanted_issues_count": 0,
+          "good_first_issue_issues_count": 0,
+          "starred_by_current_user": false
+        },
+        {
+          "id": "185277261",
+          "archived": false,
+          "color": "#dea584",
+          "followers": 627,
+          "has_funding_file": false,
+          "hl_name": "dotenv-rs/<em>dotenv</em>",
+          "hl_trunc_description": "Library to help supply environment variables in testing and development",
+          "language": "Rust",
+          "mirror": false,
+          "owned_by_organization": true,
+          "public": true,
+          "repo": {
+            "repository": {
+              "id": 185277261,
+              "name": "dotenv",
+              "owner_id": 50342978,
+              "owner_login": "dotenv-rs",
+              "updated_at": "2024-07-16T17:50:46.807Z",
+              "has_issues": true
+            }
+          },
+          "sponsorable": false,
+          "topics": [],
+          "type": "Public",
+          "help_wanted_issues_count": 0,
+          "good_first_issue_issues_count": 1,
+          "starred_by_current_user": false
+        },
+        {
+          "id": "50004406",
+          "archived": false,
+          "color": "#f1e05a",
+          "followers": 1056,
+          "has_funding_file": true,
+          "hl_name": "dotenvx/<em>dotenv</em>-expand",
+          "hl_trunc_description": "Expand variables already on your machine for use in your .env file.",
+          "language": "JavaScript",
+          "mirror": false,
+          "owned_by_organization": true,
+          "public": true,
+          "repo": {
+            "repository": {
+              "id": 50004406,
+              "name": "dotenv-expand",
+              "owner_id": 151580037,
+              "owner_login": "dotenvx",
+              "updated_at": "2026-10-15T23:18:52.366Z",
+              "has_issues": true
+            }
+          },
+          "sponsorable": false,
+          "topics": [
+            "config",
+            "dotenv",
+            "environment",
+            "secrets",
+            "env",
+            "expand"
+          ],
+          "type": "Public",
+          "help_wanted_issues_count": 0,
+          "good_first_issue_issues_count": 0,
+          "starred_by_current_user": false
+        },
+        {
+          "id": "64791395",
+          "archived": false,
+          "color": "#f1e05a",
+          "followers": 1295,
+          "has_funding_file": false,
+          "hl_name": "mrsteele/<em>dotenv</em>-webpack",
+          "hl_trunc_description": "A secure webpack plugin that supports <em>dotenv</em> and other environment variables and only exposes what you choose and use.",
+          "language": "JavaScript",
+          "mirror": false,
+          "owned_by_organization": false,
+          "public": true,
+          "repo": {
+            "repository": {
+              "id": 64791395,
+              "name": "dotenv-webpack",
+              "owner_id": 5257284,
+              "owner_login": "mrsteele",
+              "updated_at": "2026-03-07T23:31:17.805Z",
+              "has_issues": true
+            }
+          },
+          "sponsorable": false,
+          "topics": [
+            "plugin",
+            "dotenv",
+            "webpack",
+            "webpack-plugin",
+            "dotenv-webpack",
+            "environment-variables",
+            "secure"
+          ],
+          "type": "Public",
+          "help_wanted_issues_count": 3,
+          "good_first_issue_issues_count": 0,
+          "starred_by_current_user": false
+        }
+      ],
+      "type": "repositories",
+      "page": 1,
+      "page_count": 100,
+      "elapsed_millis": 189,
+      "errors": [],
+      "result_count": 12279,
+      "facets": [
+        {
+          "kind": "FACET_KIND_LANGUAGE",
+          "entries": [
+            {
+              "name": "JavaScript",
+              "language_color": "#f1e05a",
+              "query": "language:JavaScript"
+            },
+            {
+              "name": "TypeScript",
+              "language_color": "#3178c6",
+              "query": "language:TypeScript"
+            },
+            {
+              "name": "Python",
+              "language_color": "#3572A5",
+              "query": "language:Python"
+            },
+            {
+              "name": "PHP",
+              "language_color": "#4F5D95",
+              "query": "language:PHP"
+            },
+            {
+              "name": "Go",
+              "language_color": "#00ADD8",
+              "query": "language:Go"
+            },
+            {
+              "name": "Ruby",
+              "language_color": "#701516",
+              "query": "language:Ruby"
+            },
+            {
+              "name": "Shell",
+              "language_color": "#89e051",
+              "query": "language:Shell"
+            },
+            {
+              "name": "HTML",
+              "language_color": "#e34c26",
+              "query": "language:HTML"
+            },
+            {
+              "name": "Rust",
+              "language_color": "#dea584",
+              "query": "language:Rust"
+            },
+            {
+              "name": "EJS",
+              "language_color": "#a91e50",
+              "query": "language:EJS"
+            }
+          ]
+        }
+      ],
+      "protected_org_logins": [],
+      "topics": null,
+      "query_id": "",
+      "logged_in": true,
+      "sign_up_path": "/signup?source=code_search_results",
+      "sign_in_path": "/login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Ddotenv%26type%3Drepositories",
+      "metadata": null,
+      "warn_limited_results": false
+    }
+  }
+}
